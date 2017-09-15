@@ -1,10 +1,26 @@
----
-layout: post
-title: You're up and running!
----
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+[I'm an inline-style link](https://www.google.com)
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+var s = "JavaScript syntax highlighting";
+alert(s);
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+![Note8](http://cdn.gsmarena.com/imgroot/news/17/03/note8-galaxy-model-revealed/-728w2/gsmarena_002.jpg)
